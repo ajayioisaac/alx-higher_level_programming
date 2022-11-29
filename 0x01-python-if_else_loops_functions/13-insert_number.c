@@ -6,6 +6,7 @@
  * @head: pointer to address of head of list
  * @number: integer to be include in new node
  * Return: address of new node, or NULL if it failed
+ * A project by Isaac
  */
 listint_t *insert_node(listint_t **head, int number)
 {
